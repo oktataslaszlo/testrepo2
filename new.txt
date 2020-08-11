@@ -1,3 +1,4 @@
 medve 
 macska
+kutya
 
